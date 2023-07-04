@@ -5,7 +5,7 @@
   "source": {
     "https": "https://github.com/uttahb/testdemojul43.git",
     "ssh": "git@github.com:uttahb/testdemojul43.git",
-    "branch": "block_testdemojul43"
+    "branch": "block_testdemojul142"
   },
   "parentBlockIDs": [],
   "isPublic": false,
@@ -16,6 +16,9 @@
   "dependencies": {
     "addTodo": {
       "directory": "addTodo"
+    },
+    "testdemojul142": {
+      "directory": "testdemojul142"
     }
   }
 }

@@ -1,0 +1,23 @@
+{
+  "name": "todoInput",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/uttahb/testdemojul43.git",
+    "ssh": "git@github.com:uttahb/testdemojul43.git",
+    "branch": "block_todoInput"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "3va75ZGam3Pur0NUbvhKA",
+  "isPublic": false,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "_onQ7tjJTuHHCUnvzw6Jq",
+    "hQRnH6sMGwHpr93uuykIy"
+  ]
+}

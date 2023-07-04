@@ -1,0 +1,39 @@
+{
+  "name": "testdemojul142",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/uttahb/testdemojul43.git",
+    "ssh": "git@github.com:uttahb/testdemojul43.git",
+    "branch": "block_testdemojul142"
+  },
+  "dependencies": {
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "hQRnH6sMGwHpr93uuykIy",
+  "parentBlockIDs": [
+    "_onQ7tjJTuHHCUnvzw6Jq"
+  ],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "variantOfBlockId": "0cZQU-L6tpTYzvkUtHe9X"
+}
