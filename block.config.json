@@ -1,0 +1,21 @@
+{
+  "name": "testdemojul43",
+  "type": "package",
+  "blockId": "_onQ7tjJTuHHCUnvzw6Jq",
+  "source": {
+    "https": "https://github.com/uttahb/testdemojul43.git",
+    "ssh": "git@github.com:uttahb/testdemojul43.git",
+    "branch": "block_testdemojul43"
+  },
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "addTodo": {
+      "directory": "addTodo"
+    }
+  }
+}
