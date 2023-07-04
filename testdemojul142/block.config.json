@@ -10,8 +10,8 @@
     "listTodos": {
       "directory": "listTodos"
     },
-    "addTodo": {
-      "directory": "addTodo"
+    "addTodoN": {
+      "directory": "addTodoN"
     },
     "removeTodo": {
       "directory": "removeTodo"
@@ -27,13 +27,9 @@
     }
   },
   "blockId": "hQRnH6sMGwHpr93uuykIy",
-  "parentBlockIDs": [
-    "_onQ7tjJTuHHCUnvzw6Jq"
-  ],
+  "parentBlockIDs": ["_onQ7tjJTuHHCUnvzw6Jq"],
   "isPublic": false,
-  "supportedAppblockVersions": [
-    "1.0.0"
-  ],
+  "supportedAppblockVersions": ["1.0.0"],
   "repoType": "mono",
   "variantOfBlockId": "0cZQU-L6tpTYzvkUtHe9X"
 }
